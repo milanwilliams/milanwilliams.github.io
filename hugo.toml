@@ -1,0 +1,9 @@
+baseURL = 'https://milanwilliams.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
+
+[params]
+[params.social]
+twitter = "your_twitter_handle"
+github = "your_github_username"
