@@ -1,6 +1,6 @@
 baseURL = 'https://milanwilliams.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'milan williams, home'
 theme = 'PaperMod'
 
 [params]
