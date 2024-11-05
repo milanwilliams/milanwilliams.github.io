@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>milan williams, home</title>
-    <link>https://milanwilliams.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on milan williams, home</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Oct 2024 23:20:56 -0700</lastBuildDate>
-    <atom:link href="https://milanwilliams.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>intro 👋</title>
-      <link>https://milanwilliams.github.io/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 31 Oct 2024 23:20:56 -0700</pubDate>
-      <guid>https://milanwilliams.github.io/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;p&gt;Hi! I&amp;rsquo;m Milan Williams. I build security products that developers love.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m a Senior Product Manager at &lt;a href=&#34;https://semgrep.dev/&#34;&gt;Semgrep&lt;/a&gt;, a high-growth cybersecurity startup. I lead the teams responsible for Semgrep Code (SAST) and Secrets detection products.&lt;/p&gt;
-&lt;p&gt;Before Semgrep, I graduated from Harvard University with degrees in Computer Science and Physics.&lt;/p&gt;
-&lt;p&gt;In my free time, you can find me geeking about the latest in security / developer tooling, running in San Francisco&amp;rsquo;s Golden Gate Park, or enjoying local theater! 💛&lt;/p&gt;</description>
+&lt;p&gt;Before Semgrep, I graduated from Harvard University with degrees in Computer Science and Physics, where I spent most of my time in the Adams House library. ❤️💛&lt;/p&gt;
+&lt;p&gt;In my free time, you can find me geeking about the latest in security / developer tooling, running in San Francisco&amp;rsquo;s Golden Gate Park, or enjoying local theater.&lt;/p&gt;</description>
     </item>
     <item>
       <title>entrepreneurship requires discipline, not motivation</title>
-      <link>https://milanwilliams.github.io/posts/discipline/</link>
+      <link>http://localhost:1313/posts/discipline/</link>
       <pubDate>Wed, 20 May 2020 21:44:02 -0800</pubDate>
-      <guid>https://milanwilliams.github.io/posts/discipline/</guid>
+      <guid>http://localhost:1313/posts/discipline/</guid>
       <description>&lt;p&gt;&lt;em&gt;Every year on January 1st, like many others, I get motivated to start a healthier diet.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I’ll get a gym membership, search up a new recipe or two, drink lots of water and eat kale — until there’s an obstacle. A big project at school, a night out with friends, or simple forgetfulness is all it takes for my diet to slip through the cracks. After that point, I give up, only to start again the next year. Creating a healthier lifestyle, like entrepreneurship, requires discipline. Motivation alone isn’t enough to be sustainable. Just like the latest dieting fad, it can be easy to glamourize entrepreneurship. The allure of “Be Your Own Boss” and “The Four-Hour Workweek” combined with an inundation of startup success stories, can easily make the life of an entrepreneur appear idyllic. However, many entrepreneurs more closely identify with the swimming duck — calm on the surface, but paddling furiously beneath the water.&lt;/p&gt;</description>
     </item>

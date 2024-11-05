@@ -8,6 +8,6 @@ Hi! I'm Milan Williams. I build security products that developers love.
 
 I'm a Senior Product Manager at [Semgrep](https://semgrep.dev/), a high-growth cybersecurity startup. I lead the teams responsible for Semgrep Code (SAST) and Secrets detection products.
 
-Before Semgrep, I graduated from Harvard University with degrees in Computer Science and Physics.
+Before Semgrep, I graduated from Harvard University with degrees in Computer Science and Physics, where I spent most of my time in the Adams House library. ❤️💛
 
-In my free time, you can find me geeking about the latest in security / developer tooling, running in San Francisco's Golden Gate Park, or enjoying local theater! 💛
+In my free time, you can find me geeking about the latest in security / developer tooling, running in San Francisco's Golden Gate Park, or enjoying local theater.
