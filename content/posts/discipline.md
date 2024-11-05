@@ -1,6 +1,6 @@
 +++
 date = '2020-05-20T21:44:02-08:00'
-draft = true
+draft = false
 title = 'entrepreneurship requires discipline, not motivation'
 +++
 
