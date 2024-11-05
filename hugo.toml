@@ -5,5 +5,11 @@ theme = 'PaperMod'
 
 [params]
 [params.social]
-twitter = "your_twitter_handle"
-github = "your_github_username"
+twitter = "@milanwilliamsx"
+github = "@milanwilliams"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
